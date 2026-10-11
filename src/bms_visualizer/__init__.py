@@ -1,2 +1,3 @@
-def main() -> None:
-    print("Hello from bms-visualizer!")
+from bms_visualizer.runner import main
+
+__all__ = ["main"]
