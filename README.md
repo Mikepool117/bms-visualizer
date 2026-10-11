@@ -20,3 +20,5 @@ uv sync
 ```bash
 uv run bms-visualizer
 ```
+
+> jupyterlab is removed from requirements to save on install time
